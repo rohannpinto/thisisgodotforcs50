@@ -1,5 +1,6 @@
-# thisisgodotforcs50
-This is Godot for CS50
+# This is Godot for CS50
+#### Video Demo: https://www.youtube.com/watch?v=XxWrqrAaWD8
+#### Description:
 
 "This is Godot for CS50" is a beginner-level 2D platformer tech demo built within the Godot Engine, designed as an introductory exploration of game development principles. This single-level demonstration focuses on core game mechanics like player movement, collision detection, and collectible interactions, all while showcasing Godot's node-based architecture and GDScript scripting. The game emphasizes a classic platforming experience, where the player navigates a level, collects coins, and avoids enemies, providing a hands-on introduction to essential game development concepts.
 
